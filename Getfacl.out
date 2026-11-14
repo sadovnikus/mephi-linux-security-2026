@@ -1,0 +1,7 @@
+# file: home/user1
+# owner: user1
+# group: user1
+user::rwx
+group::---
+other::---
+
